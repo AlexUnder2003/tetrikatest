@@ -15,7 +15,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 
 ## 3. Ставим зависимости
 pip install -r requirements.txt
-Запуск паука
+
 
 ## 4. Запуск паука
 scrapy crawl animals
