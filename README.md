@@ -5,19 +5,19 @@
 1. Быстрый старт (Scrapy — сбор животных по алфавиту)
 Требования: Python 3.9+, pip, virtualenv (желательно)
 Проверено на macOS / Linux. Для Windows команды аналогичны (без export).
-# 1. Клонируем репозиторий и заходим в директорию проекта
+## 1. Клонируем репозиторий и заходим в директорию проекта
 git clone https://github.com/your-name/animals-lesson-time.git
 cd animals-lesson-time
 
-# 2. Создаём и активируем виртуальное окружение
+## 2. Создаём и активируем виртуальное окружение
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 
-# 3. Ставим зависимости
+## 3. Ставим зависимости
 pip install -r requirements.txt
 Запуск паука
 
-# 4. Запуск паука
+## 4. Запуск паука
 scrapy crawl animals
 В результате появится файл beasts.csv в корне проекта:
 
