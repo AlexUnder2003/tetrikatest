@@ -4,7 +4,7 @@
 # Task2
 1. Быстрый старт (Scrapy — сбор животных по алфавиту)
 Требования: Python 3.9+, pip, virtualenv (желательно)
-Проверено на macOS / Linux. Для Windows команды аналогичны (без export).
+Проверено на macOS / Linux. Для Windows команды аналогичны.
 ## 1. Клонируем репозиторий и заходим в директорию проекта
 git clone https://github.com/AlexUnder2003/tetrikatest.git
 cd task2
