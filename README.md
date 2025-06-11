@@ -6,8 +6,8 @@
 Требования: Python 3.9+, pip, virtualenv (желательно)
 Проверено на macOS / Linux. Для Windows команды аналогичны (без export).
 ## 1. Клонируем репозиторий и заходим в директорию проекта
-git clone https://github.com/your-name/animals-lesson-time.git
-cd animals-lesson-time
+git clone https://github.com/AlexUnder2003/tetrikatest.git
+cd task2
 
 ## 2. Создаём и активируем виртуальное окружение
 python -m venv venv
